@@ -1,8 +1,18 @@
+
+بسم الله الرحمن الرحيم
+
+***
+
 <img align="right" src="https://github.com/aaabdallah/aaabdallah/blob/master/palmTrees2.jpg" alt="Palm trees at the California Citrus State Historic Park in Riverside, California" title="Palm trees at the California Citrus State Historic Park in Riverside, California"/>
 
 # Program systems, I do.
 
-My name is Ahmed Abd-el-Shafy Abd-Allah, and I want to thank you for dropping by. I hail from Riverside, California, a city of towering palm trees and hard-working folk.
+<div style="text-align:center">
+  <span style="background-color:blue">
+</span>
+</div>
+
+My name is Ahmed Abd-el-Shafy Abd-Allah, and I would like to thank you for dropping by. I hail from Riverside, a city of towering palm trees and blue skies in the beautiful deserts of Southern California.
 
 My current job is as the Chief Technology Officer in a small professional services company, Systematic, with offices in the United Arab Emirates and Saudi Arabia. We occasionally outsource work to a sister company in Egypt as well.
 
