@@ -30,7 +30,7 @@ Please do contact me directly to explore how I can help solve your challenges :b
 - design and slowly but steadily implement tailored software processes for onshore and offshore teams, emphasizing Agile methodologies like Scrum and Kanban
   - believe me, this area in particular requires "slow but steady"
 
-You can find more details about my work experience and clients in my CV at https://docs.google.com/document/d/1z9IU6Tsy3eDAVdX04k1EFmQgUNLq3dBhmEyLR6YKtok.
+You can find more details about my work experience and clients in my CV at https://docs.google.com/document/d/1z9IU6Tsy3eDAVdX04k1EFmQgUNLq3dBhmEyLR6YKtok. Some _very generous_ people have also gifted me with their recommendations at https://docs.google.com/document/d/1YFIQlDXCTA1gaUGHtmr-nE2mSXSfLGNK63CRMO0ORZM/edit?usp=sharing. My LinkedIn profile (https://linkedin.com/in/ahmedabdallah) includes my CV and most of those recommendations.
 
 And, of course, you can find some samples of my work over the ~~years~~ decades right here at github.
 
