@@ -36,6 +36,7 @@ And, of course, you can find some samples of my work over the ~~years~~ decades 
 
 Finally, if you wonder why programming has remained so important for me and so many others, here is an article by David Intersimone - surely you know the company Borland? - on [Why Programming is Fun](https://www.drdobbs.com/architecture-and-design/why-programming-is-fun/196603871). The main reason for me is the first one on Fred Brooks' list.
 
+والحمد لله رب العالمين والصلاة والسلام على أشرف المرسلين نبينا محمد وعلى آله وصحبه ومن تبعهم بإحسان إلى يوم الدين
 
 <!--
 **aaabdallah/aaabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
