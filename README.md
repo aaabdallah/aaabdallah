@@ -38,6 +38,8 @@ Finally, if you wonder why programming has remained so important for me and so m
 
 والحمد لله رب العالمين والصلاة والسلام على أشرف المرسلين نبينا محمد وعلى آله وصحبه ومن تبعهم بإحسان إلى يوم الدين
 
+<img align="right" src="https://github.com/aaabdallah/aaabdallah/blob/master/ahmedemail.png"/>
+
 <!--
 **aaabdallah/aaabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
